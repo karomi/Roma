@@ -1,0 +1,2 @@
+1. Individual jamo that compose a Hangul syllable need to be 
+parsed individually. How to do this? Notes to follow.
